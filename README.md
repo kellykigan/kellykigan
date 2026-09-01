@@ -34,7 +34,6 @@ The focus is not programming for its own sake. Each project demonstrates how qua
 I invite you to explore my repositories to see the code, workflows, documentation, analysis, and interpretations behind my projects.
 
 **My GitHub is a record of practical learning and applied quantitative research.**
-## Hi there 👋
 
 <!--
 **kellykigan/kellykigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
