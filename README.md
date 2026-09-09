@@ -1,8 +1,8 @@
 # Hi, I'm Kelly Kigan
 
-### Development Research | Qualitative Analysis | Quantitative Analysis | R, Stata & Python
+### Development Research | Qualitative Analysis | Quantitative Analysis | R, Stata, SPSS & Python
 
-I am a development research professional building practical capability in quantitative research and data analysis. I use **R, Stata, and Python** to clean, analyse, visualise, and interpret data, with a focus on generating evidence and insights relevant to development challenges.
+I am a development research professional with practical experience in qualitative and quantitative research, data analysis, and evidence generation. I use **R, Stata, SPSS, and Python** to clean, analyse, visualise, and interpret data, with a focus on development research and evidence-based insights.
 
 ## What I Do
 
@@ -10,16 +10,28 @@ I am a development research professional building practical capability in quanti
 * Conduct exploratory and statistical analysis
 * Produce clear data visualisations
 * Apply quantitative methods to development research questions
+* Conduct qualitative and quantitative research
 * Build reproducible research workflows
-* Translate data and statistical findings into development-relevant insights
+* Translate research findings and statistical results into development-relevant insights
 
 ## Technical Toolkit
 
-| Tool       | Application                                                                 |
-| ---------- | --------------------------------------------------------------------------- |
-| **R**      | Data cleaning, exploratory analysis, statistical analysis and visualisation |
-| **Stata**  | Data management, descriptive statistics and quantitative research analysis  |
-| **Python** | Data preparation, analysis and reproducible research workflows              |
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stata" width="45" height="45" alt="Stata"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spss" width="45" height="45" alt="SPSS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+| Tool | Application |
+| --- | --- |
+| **R** | Data cleaning, exploratory analysis, statistical analysis and visualisation |
+| **Stata** | Data management, descriptive statistics and quantitative research analysis |
+| **SPSS** | Data management, statistical analysis and quantitative research |
+| **Python** | Data preparation, analysis and reproducible research workflows |
 
 ## What You'll Find Here
 
@@ -27,25 +39,10 @@ My repositories document practical research projects from **raw data to findings
 
 **Data preparation → Exploratory analysis → Statistical analysis → Visualisation → Interpretation**
 
-The focus is not programming for its own sake. Each project demonstrates how quantitative tools can be applied to investigate real-world questions and support evidence-based development research.
+The focus is on applying analytical tools to real-world research questions rather than programming for its own sake.
 
 ## Explore My Work
 
-I invite you to explore my repositories to see the code, workflows, documentation, analysis, and interpretations behind my projects.
+Explore my repositories to see the code, workflows, documentation, analysis, visualisations, and interpretations behind my projects.
 
 **My GitHub is a record of practical learning and applied quantitative research.**
-
-<!--
-**kellykigan/kellykigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
