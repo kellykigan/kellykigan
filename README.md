@@ -18,13 +18,20 @@ I am a development research professional with practical experience in qualitativ
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/stata" width="45" height="45" alt="Stata"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spss" width="45" height="45" alt="SPSS"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="YOUR-STATA-ICON-URL" width="45" height="45" alt="Stata"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="YOUR-SPSS-ICON-URL" width="45" height="45" alt="SPSS"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
+
+| Tool | Application |
+| --- | --- |
+| **R** | Data cleaning, exploratory analysis, statistical analysis and visualisation |
+| **Stata** | Data management, descriptive statistics and quantitative research analysis |
+| **SPSS** | Data management, statistical analysis and quantitative research |
+| **Python** | Data preparation, analysis and reproducible research workflows |
 
 | Tool | Application |
 | --- | --- |
