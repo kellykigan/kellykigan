@@ -55,7 +55,7 @@ The goal is to combine research judgement with technical tools while maintaining
 
 My repositories document practical projects and experiments across **development research, quantitative analysis, data work, and AI-assisted research workflows**.
 
-Projects may include:
+Projects here include:
 
 * Research datasets and data preparation
 * R, Stata, SPSS, and Python analysis
