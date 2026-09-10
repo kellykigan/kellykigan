@@ -2,7 +2,7 @@
 
 ### Development Research | Qualitative Analysis | Quantitative Analysis | R, Stata, SPSS & Python
 
-I am a development research professional with practical experience in qualitative and quantitative research, data analysis, and evidence generation. I use **R, Stata, SPSS, and Python** to clean, analyse, visualise, and interpret data, with a focus on development research and evidence-based insights.
+I am a development research professional with practical experience in qualitative and quantitative research, data analysis, and evidence generation. I use **R, Stata, SPSS, and Python** to clean, analyse, visualise, and interpret data, and Python to build AI-assisted workflows for research and data tasks.
 
 ## What I Do
 
@@ -19,9 +19,9 @@ I am a development research professional with practical experience in qualitativ
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./stata-logo.svg" width="75" alt="Stata"/>
+  <img src="./stata-logo.png" width="75" alt="Stata"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./spss-logo.svg" width="45" height="45" alt="SPSS"/>
+  <img src="./spss-logo.png" width="45" height="45" alt="SPSS"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
@@ -31,7 +31,7 @@ I am a development research professional with practical experience in qualitativ
 | **R** | Data cleaning, exploratory analysis, statistical analysis and visualisation |
 | **Stata** | Data management, descriptive statistics and quantitative research analysis |
 | **SPSS** | Data management, statistical analysis and quantitative research |
-| **Python** | Data preparation, analysis and reproducible research workflows |
+| **Python** | Data preparation, analysis, visualisation, and building AI agents for research and data workflows |
 
 ## What You'll Find Here
 
